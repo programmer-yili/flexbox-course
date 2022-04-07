@@ -1,0 +1,28 @@
+/*重置样式*/
+body{
+    margin: 0;
+    padding: 0;
+    width: 100vw;
+    height: 100vh;
+}
+
+/*容器样式*/
+
+.flex-container {
+    background-color: #375058;
+    padding: 10px;
+    position: relative;
+}
+
+.flex-item {
+    background-color: #D4DFD0;
+    color: #999999;
+    text-align: center;
+    line-height: 100px;
+    font-size: 30px;
+    width: 100px;
+    border: 1px solid #999999;
+}
+
+
+/*FlexBox布局*/
